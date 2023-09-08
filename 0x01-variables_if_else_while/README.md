@@ -8,11 +8,11 @@ __0x01. C - Variables, if, else, while__
 
 * __3-print_alphabets.c__: prints the alphabet in lowercase, then in uppercase, followed by a new line.
 
-* __4-print_alphabets.c__: prints the alphabet in lowercase except for the letters q and e.
+* __4-print_alphabt.c__: prints the alphabet in lowercase except for the letters q and e.
 
 * __5-print_numbers.c__: prints all single digit numbers of base 10 starting from 0.
 
-* __6-print_numbers.c__: prints all single digit numbers of base 10 starting from 0
+* __6-print_numberz.c__: prints all single digit numbers of base 10 starting from 0
 
 * __7-print_tebahpla.c__: prints the lowercase alphabet in reverse, followed by a new line, using only the putchar function exactly twice.
 
